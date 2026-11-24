@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+/uploads/*
+php_errors.log
+/backup/
+.env
+/database/dumps/
+/database/data/
+/public/assets/plugins/
+/plugins/plugins.json
+/logs/*
+!/logs/.gitkeep
+/exports/
+*.bak

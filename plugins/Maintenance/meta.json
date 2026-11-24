@@ -1,0 +1,6 @@
+{
+	"name": "Maintenance",
+	"version": "1.0.0",
+	"description": "Maintenance mode: blocks non-admins behind a 503 page; toggled on the Application Settings page, with a CLI helper.",
+	"loader": "Plugins\\Maintenance\\Maintenance"
+}

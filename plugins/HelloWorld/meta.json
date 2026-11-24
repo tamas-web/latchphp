@@ -1,0 +1,6 @@
+{
+	"name": "HelloWorld",
+	"version": "1.1.0",
+	"description": "Reference plugin: a filter, an event, and its own /hello-world page (route + controller + template) with a rail entry.",
+	"loader": "Plugins\\HelloWorld\\HelloWorld"
+}

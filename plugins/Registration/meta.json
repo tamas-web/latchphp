@@ -1,0 +1,6 @@
+{
+	"name": "Registration",
+	"version": "1.0.0",
+	"description": "Self-registration + email confirmation as a self-contained plugin.",
+	"loader": "Plugins\\Registration\\Registration"
+}

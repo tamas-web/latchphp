@@ -1,0 +1,7 @@
+# every .php file here is PHP; without this, templates that contain no <?php tag
+# ( pure-HTML partials ) get misdetected as Hack
+*.php linguist-language=PHP
+
+# third-party bundles and font metrics shouldn't count as this project's code
+public/assets/vendors/** linguist-vendored
+public/assets/fonts/**   linguist-vendored

@@ -1,0 +1,6 @@
+{
+	"name": "fileUpload",
+	"version": "1.0.0",
+	"description": "Validate uploaded files.",
+	"loader": "Plugins\\fileUpload\\fileUpload"
+}
