@@ -37,6 +37,8 @@ class VerifyNonce implements MiddlewareInterface {
 
 		echo new Response;
 
+		exit;
+
 	}
 
 	protected function token( Request $request ) : string {
